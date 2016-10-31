@@ -1,0 +1,46 @@
+
+
+
+                     +-------------------------+
+                     |    _         __,..-+    |
+                     |   , `-._      `._  |    |
+                     |  '.     `-._     `./    |
+                     |    `.       `-._   '    |
+                     |      `.         `-._    |
+                     |        `.           `'  |
+                     |   `.     `.         |   |
+                     |  |  `.     `._     _/   |
+                     |  '--'''       .--''     |
+                     +-------------------------+
+
+                 ____   ___ _____  _            _____
+                |  _ \ / _ \_   _|/ \          |___ /
+                | | | | | | || | / _ \           |_ \
+                | |_| | |_| || |/ ___ \         ___) |
+                |____/ \___/ |_/_/   \_\       |____/
+
+
+
+DOTA 3 is a role playing game (inspired from dota2).
+
+Game begins when you choose a hero of your choice from a pool of heroes available. Once chosen, a game map is generated
+with a lot of checkpoints randomly created with a resident hero. Hero has abilities like health, attach damage range,
+armour, experience gained per attack.
+
+Player can explore the map, and collect inventory items until deciding to fight. Player has to fight and win a resident
+hero at checkpoints sequentially. If the player dies, the game is lost. Player gains experience and levels up as and
+when he fights.
+
+You can create multiple profiles and each profile can have many games. You can save and resume a game/profile character
+as and when required.
+
+Note:
+Leveling up and gained experience does not have any effect.
+There is no limit on the inventory, hence the player can always win if he keeps exploring well before fighting.
+Bonus life/armour gained using inventory is permanently added to the player.
+
+
+
+
+
+
