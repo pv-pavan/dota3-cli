@@ -13,10 +13,14 @@ Fat jar with all dependencies is created under build/libs (dota3-all-1.0-SNAPSHO
 
 ### Run:
 
-java -jar dota3-all-1.0-SNAPSHOT.jar 
+java -jar build/libs/dota3-all-1.0-SNAPSHOT.jar 
 
 
 To play the game, choose from a list of commands as the game progresses. 
+
+Note: 
+User running the program requires file creation privileges.
+Profiles will be saved to disk in the directory where the program is run. 
 
 
 
