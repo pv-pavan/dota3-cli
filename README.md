@@ -1,17 +1,17 @@
 # dota3-cli
 Command line RPG game - Dota3
 
-Gradle Build using Wrapper:
+### Gradle Build using Wrapper:
 
 ./gradlew clean build
 
-Generate Fat Jar:
+### Generate Fat Jar:
 
 ./gradlew fatJar
 
-- Fat jar with all dependencies is created under build/libs (dota3-all-1.0-SNAPSHOT.jar)
+Fat jar with all dependencies is created under build/libs (dota3-all-1.0-SNAPSHOT.jar)
 
-Run:
+### Run:
 
 java -jar dota3-all-1.0-SNAPSHOT.jar 
 
